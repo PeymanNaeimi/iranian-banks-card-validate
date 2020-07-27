@@ -1,5 +1,7 @@
 <?php
 
+require_once('../validate.php');
+
 /**
 * example: http://localhost/test.php?card=6037997465213496
 */
